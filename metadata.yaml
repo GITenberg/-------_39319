@@ -1,0 +1,43 @@
+_repo: '-------_39319'
+_version: 0.1.0
+alternative_title: Orestis
+contributor:
+  translator:
+    agent_name: Voutierides, El. P.‏   (Elias P.)
+    aliases:
+    - Voutieridis, Ilias
+    - Boutierides, Elias P.
+    - Βουτιερίδης, Ηλίας
+    - Voutierides, Elias P.
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '38791'
+    url: http://www.gutenberg.org/2009/agents/38791
+    wikipedia: http://el.wikipedia.org/wiki/Ηλίας_Βουτιερίδης
+covers:
+- cover_type: archival
+  image_path: 39319-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Euripides
+description: ''
+gutenberg_issued: '2012-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39319'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Orestes, King of Argos (Mythological character) -- Drama'
+title: Ορέστης
+url: http://www.gutenberg.org/ebooks/39319
